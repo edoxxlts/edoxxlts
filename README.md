@@ -1,4 +1,8 @@
-### Hi there 👋
+# Gerson Eduardo Bernal
+Jr. Developer.
+
+🔭 Trabajo actualmente como desarrollador de aplicaciones para la Gobernación del estado Táchira.
+
 
 <!--
 **edoxxlts/edoxxlts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
